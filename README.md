@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **my Skills !**
 
-- 🌱 I’m currently learning **Blockchain development , CPP , DSA  and NFT's**
+- 🌱 I’m currently learning **Blockchain development , CPP , DSA , Go and NFT's**
 
-- 🤝 I’m looking for help with **Blockchain and ReactJS**
+- 🤝 I’m looking for help with **Blockchain, Golang and ReactJS**
 
 - 💬 Ask me about **Blockchain , Solidity , NFT , C/C++ , DAO and DAPPS.**
 
